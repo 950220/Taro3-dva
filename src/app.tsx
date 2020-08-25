@@ -1,4 +1,4 @@
-import { Component } from 'react'
+import React, { Component } from 'react'
 import { Provider } from 'react-redux'
 import models from './models'
 import dva from './utils/dva'
